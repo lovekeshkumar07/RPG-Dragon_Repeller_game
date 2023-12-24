@@ -1,4 +1,6 @@
 # RPG-Dragon_Repeller_game
+Learned this from @freeCodeCamp.org
+
 This is basic game made with using HTML/CSS and JavaScript to learn basics in web Development.
 This Repo Contain 3 file:
 
